@@ -6,7 +6,7 @@ int main()
 {
 	std::cout << "Hello Simple Engine Editor" << std::endl;
 
-	SimpleEngine::sayHello();
+	SimpleEngine::checkGLFW();
 
 	std::cin.get();
 }
